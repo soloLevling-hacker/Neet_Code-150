@@ -1,3 +1,15 @@
+'''
+Approach:
+Create a hash map for the first string (s) to count the frequency of each character.
+Create another hash map for the second string (t) to count the frequency of each character.
+Compare the two hash maps.
+If both have the same characters with the same frequencies, the strings are anagrams.
+Otherwise, they are not anagrams.
+Complexity
+Time Complexity: O(n + m) (where n and m are the lengths of s and t)
+Space Complexity: O(k) (where k is the number of unique characters)
+'''
+
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         dic = {}
