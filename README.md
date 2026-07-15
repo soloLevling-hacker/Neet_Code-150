@@ -1,10 +1,9 @@
-# NeetCode 150 Solutions
+  # NeetCode 150 Solutions
 
 My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, automatically synced from NeetCode platform.
 
 ## 📊 Progress
-- Total Solved: **X/150**
-- Last Updated: [Date]
+- Total Solved: **9/150**
 
 ---
 
@@ -13,7 +12,8 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 ### 1. Arrays & Hashing
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./path-to-auto-sync-file/contains-duplicate.py) | Easy |
+| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./anagram-groups
+/submission-0.py) | Easy |
 | 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./path-to-auto-sync-file/valid-anagram.py) | Easy |
 | 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./path-to-auto-sync-file/two-sum.py) | Easy |
 | 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./path-to-auto-sync-file/group-anagrams.py) | Medium |
