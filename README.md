@@ -12,15 +12,15 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 ### 1. Arrays & Hashing
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Data%20Structures%20%26%20Algorithms/anagram-groups/submission-0.py) | Easy |
-| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./path-to-auto-sync-file/valid-anagram.py) | Easy |
-| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./path-to-auto-sync-file/two-sum.py) | Easy |
-| 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./path-to-auto-sync-file/group-anagrams.py) | Medium |
-| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./path-to-auto-sync-file/top-k-frequent-elements.py) | Medium |
-| 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Solution](./path-to-auto-sync-file/encode-and-decode-strings.py) | Medium |
-| 7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./path-to-auto-sync-file/product-of-array-except-self.py) | Medium |
-| 8 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./path-to-auto-sync-file/valid-sudoku.py) | Medium |
-| 9 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./path-to-auto-sync-file/longest-consecutive-sequence.py) | Medium |
+| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Data%20Structures%20%26%20Algorithms/duplicate-integer/submission-0.py) | Easy |
+| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./Data%20Structures%20%26%20Algorithms/is-anagram/submission-0.py) | Easy |
+| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./Data%20Structures%20%26%20Algorithms/two-integer-sum/submission-0.py) | Easy |
+| 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Data%20Structures%20%26%20Algorithms/anagram-groups/submission-0.py) | Medium |
+| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/submission-0.py) | Medium |
+| 6 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Solution](./Data%20Structures%20%26%20Algorithms/string-encode-and-decode/submission-0.py) | Medium |
+| 7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](./Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self/submission-0.py) | Medium |
+| 8 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](./Data%20Structures%20%26%20Algorithms/valid-sudoku/submission-0.py) | Medium |
+| 9 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](./Data%20Structures%20%26%20Algorithms/longest-consecutive-sequence/submission-0.py) | Medium |
 
 ### 2. Two Pointers
 | # | Problem | Solution | Difficulty |
