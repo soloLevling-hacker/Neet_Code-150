@@ -45,7 +45,7 @@ class Solution:
         i = 0
         while i < len(s):
             j = i
-            while s[j] != '#':
+            while j < len(s) and s[j] != '#':
                 j += 1
             length = int(s[i:j])
 
