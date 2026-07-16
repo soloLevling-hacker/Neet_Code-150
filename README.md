@@ -3,7 +3,7 @@
 My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, automatically synced from NeetCode platform.
 
 ## 📊 Progress
-- Total Solved: **9/150**
+- Total Solved: **13/150**
 
 ---
 
@@ -28,7 +28,7 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | 10 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./Data%20Structures%20%26%20Algorithms/is-palindrome/submission-0.py) | Easy |
 | 11 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](././Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/submission-0.py) | Medium |
 | 12 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./Data%20Structures%20%26%20Algorithms/three-integer-sum/submission-0.py) | Medium |
-| 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](./Data%20Structures%20%26%20Algorithms/submission-0.py) | Medium |
+| 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution1](./Data%20Structures%20%26%20Algorithms/max-water-container/submission-0.py) | [Solution2](./Data%20Structures%20%26%20Algorithms/max-water-container/submission-1.py) | Medium |
 | 14 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./Data%20Structures%20%26%20Algorithms/submission-0.py) | Hard |
 
 ### 3. Sliding Window
