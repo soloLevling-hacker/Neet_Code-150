@@ -10,8 +10,8 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 ## 📚 Categories
 
 ### 1. Arrays & Hashing
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
+| # | Problem | Solution |  | Difficulty |
+|---|---------|----------|--|------------|
 | 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Data%20Structures%20%26%20Algorithms/duplicate-integer/submission-0.py) | Easy |
 | 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./Data%20Structures%20%26%20Algorithms/is-anagram/submission-0.py) | Easy |
 | 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./Data%20Structures%20%26%20Algorithms/two-integer-sum/submission-0.py) | Easy |
