@@ -3,7 +3,7 @@
 My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, automatically synced from NeetCode platform.
 
 ## 📊 Progress
-- Total Solved: **22/150**
+- Total Solved: **28/150**
 
 ---
 
@@ -54,12 +54,12 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 ### 5. Binary Search
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 27 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](./path-to-auto-sync-file/binary-search.py) | Easy |
-| 28 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./path-to-auto-sync-file/search-2d-matrix.py) | Medium |
-| 29 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./path-to-auto-sync-file/koko-eating-bananas.py) | Medium |
-| 30 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./path-to-auto-sync-file/search-in-rotated-sorted-array.py) | Medium |
-| 31 | [Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./path-to-auto-sync-file/find-minimum-in-rotated-sorted-array.py) | Medium |
-| 32 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./path-to-auto-sync-file/time-based-key-value-store.py) | Medium |
+| 27 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](./Data%20Structures%20%26%20Algorithms/binary-search/submission-0.py) | Easy |
+| 28 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./Data%20Structures%20%26%20Algorithms/search-2d-matrix/submission-0.py) | Medium |
+| 29 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./Data%20Structures%20%26%20Algorithms/eating-bananas/submission-0.py) | Medium |
+| 30 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Data%20Structures%20%26%20Algorithms/find-target-in-rotated-sorted-array/submission-4.py) | Medium |
+| 31 | [Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](./Data%20Structures%20%26%20Algorithms/find-minimum-in-rotated-sorted-array/submission-0.py) | Medium |
+| 32 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./Data%20Structures%20%26%20Algorithms/time-based-key-value-store/submission-0.py) | Medium |
 | 33 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](./path-to-auto-sync-file/median-of-two-sorted-arrays.py) | Hard |
 
 ### 6. Linked List
