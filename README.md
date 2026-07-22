@@ -65,9 +65,9 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 ### 6. Linked List
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 34 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./path-to-auto-sync-file/reverse-linked-list.py) | Easy |
-| 35 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./path-to-auto-sync-file/merge-two-sorted-lists.py) | Easy |
-| 36 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./path-to-auto-sync-file/linked-list-cycle.py) | Easy |
+| 34 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./Data%20Structures%20%26%20Algorithms/reverse-a-linked-list/submission-1.py) | Easy |
+| 35 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./Data%20Structures%20%26%20Algorithms/merge-two-sorted-linked-lists/submission-0.py) | Easy |
+| 36 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection/submission-0.py) | Easy |
 | 37 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution](./path-to-auto-sync-file/reorder-list.py) | Medium |
 | 38 | [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./path-to-auto-sync-file/remove-nth-node-from-end.py) | Medium |
 | 39 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./path-to-auto-sync-file/copy-list-with-random-pointer.py) | Medium |
