@@ -72,7 +72,7 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | 38 | [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list/submission-0.py) | Medium |
 | 39 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./Data%20Structures%20%26%20Algorithms/copy-linked-list-with-random-pointer/submission-1.py) | Medium |
 | 40 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](./Data%20Structures%20%26%20Algorithms/add-two-numbers/submission-0.py) | Medium |
-| 41 | [Find Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./path-to-auto-sync-file/find-duplicate-number.py) | Medium |
+| 41 | [Find Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](./Data%20Structures%20%26%20Algorithms/find-duplicate-integer/submission-0.py) | Medium |
 | 42 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](./path-to-auto-sync-file/lru-cache.py) | Medium |
 | 43 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./path-to-auto-sync-file/merge-k-sorted-lists.py) | Hard |
 
