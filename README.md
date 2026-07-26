@@ -76,19 +76,26 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | 42 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Solution](./path-to-auto-sync-file/lru-cache.py) | Medium |
 | 43 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./path-to-auto-sync-file/merge-k-sorted-lists.py) | Hard |
 
+---
+
 ### 8. Trees
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 45 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](./path-to-auto-sync-file/invert-binary-tree.py) | Easy |
-| 46 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./path-to-auto-sync-file/maximum-depth-of-binary-tree.py) | Easy |
-| 47 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](./path-to-auto-sync-file/same-tree.py) | Easy |
-| 48 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./path-to-auto-sync-file/subtree-of-another-tree.py) | Easy |
-| 49 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](./path-to-auto-sync-file/binary-tree-level-order-traversal.py) | Medium |
-| 50 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./path-to-auto-sync-file/validate-binary-search-tree.py) | Medium |
-| 51 | [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./path-to-auto-sync-file/kth-smallest-element-in-bst.py) | Medium |
-| 52 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./path-to-auto-sync-file/construct-binary-tree-from-preorder-inorder.py) | Medium |
-| 53 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./path-to-auto-sync-file/binary-tree-maximum-path-sum.py) | Hard |
-| 54 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./path-to-auto-sync-file/serialize-deserialize-binary-tree.py) | Hard |
+| 44 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](./Data%20Structures%20%26%20Algorithms/invert-a-binary-tree/submission-0.py) | Easy |
+| 45 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./Data%20Structures%20%26%20Algorithms/depth-of-binary-tree/submission-0.py) | Easy |
+| 46 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](./Data%20Structures%20%26%20Algorithms/binary-tree-diameter/submission-0.py) | Easy |
+| 47 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](./Data%20Structures%20%26%20Algorithms/balanced-binary-tree/submission-1.py) | Easy |
+| 48 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](./Data%20Structures%20%26%20Algorithms/same-binary-tree/submission-0.py) | Easy |
+| 49 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree/submission-0.py) | Easy |
+| 50 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./path-to-auto-sync-file/lowest-common-ancestor-bst.py) | Medium |
+| 51 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](./path-to-auto-sync-file/binary-tree-level-order-traversal.py) | Medium |
+| 52 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./path-to-auto-sync-file/binary-tree-right-side-view.py) | Medium |
+| 53 | [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Solution](./path-to-auto-sync-file/count-good-nodes.py) | Medium |
+| 54 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./path-to-auto-sync-file/validate-binary-search-tree.py) | Medium |
+| 55 | [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./path-to-auto-sync-file/kth-smallest-element-in-bst.py) | Medium |
+| 56 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./path-to-auto-sync-file/construct-binary-tree-from-preorder-inorder.py) | Medium |
+| 57 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./path-to-auto-sync-file/binary-tree-maximum-path-sum.py) | Hard |
+| 58 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./path-to-auto-sync-file/serialize-deserialize-binary-tree.py) | Hard |
 
 ---
 
