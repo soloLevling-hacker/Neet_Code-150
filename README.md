@@ -3,7 +3,7 @@
 My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, automatically synced from NeetCode platform.
 
 ## 📊 Progress
-- Total Solved: **32/150**
+- Total Solved: **42/150**
 
 ---
 
