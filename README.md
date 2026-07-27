@@ -87,10 +87,10 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | 47 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](./Data%20Structures%20%26%20Algorithms/balanced-binary-tree/submission-1.py) | Easy |
 | 48 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](./Data%20Structures%20%26%20Algorithms/same-binary-tree/submission-0.py) | Easy |
 | 49 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree/submission-0.py) | Easy |
-| 50 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./path-to-auto-sync-file/lowest-common-ancestor-bst.py) | Medium |
-| 51 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](./path-to-auto-sync-file/binary-tree-level-order-traversal.py) | Medium |
-| 52 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./path-to-auto-sync-file/binary-tree-right-side-view.py) | Medium |
-| 53 | [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Solution](./path-to-auto-sync-file/count-good-nodes.py) | Medium |
+| 50 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./Data%20Structures%20%26%20Algorithms/lowest-common-ancestor-in-binary-search-tree/submission-0.py) | Medium |
+| 51 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](./Data%20Structures%20%26%20Algorithms/level-order-traversal-of-binary-tree/submission-0.py) | Medium |
+| 52 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./Data%20Structures%20%26%20Algorithms/binary-tree-right-side-view/submission-0.py) | Medium |
+| 53 | [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Solution](./Data%20Structures%20%26%20Algorithms/count-good-nodes-in-binary-tree/submission-2.py) | Medium |
 | 54 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./path-to-auto-sync-file/validate-binary-search-tree.py) | Medium |
 | 55 | [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./path-to-auto-sync-file/kth-smallest-element-in-bst.py) | Medium |
 | 56 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./path-to-auto-sync-file/construct-binary-tree-from-preorder-inorder.py) | Medium |
