@@ -3,7 +3,7 @@
 My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, automatically synced from NeetCode platform.
 
 ## 📊 Progress
-- Total Solved: **48/150**
+- Total Solved: **50/150**
 
 ---
 
@@ -93,7 +93,7 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | 53 | [Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Solution](./Data%20Structures%20%26%20Algorithms/count-good-nodes-in-binary-tree/submission-2.py) | Medium |
 | 54 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](./Data%20Structures%20%26%20Algorithms/valid-binary-search-tree/submission-0.py) | Medium |
 | 55 | [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](./Data%20Structures%20%26%20Algorithms/kth-smallest-integer-in-bst/submission-0.py) | Medium |
-| 56 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./path-to-auto-sync-file/construct-binary-tree-from-preorder-inorder.py) | Medium |
+| 56 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](./Data%20Structures%20%26%20Algorithms/binary-tree-from-preorder-and-inorder-traversal/submission-0.py) | Medium |
 | 57 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](./path-to-auto-sync-file/binary-tree-maximum-path-sum.py) | Hard |
 | 58 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./path-to-auto-sync-file/serialize-deserialize-binary-tree.py) | Hard |
 
@@ -103,7 +103,7 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 61 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution](./path-to-auto-sync-file/kth-largest-element-stream.py) | Easy |
+| 61 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution](./Data%20Structures%20%26%20Algorithms/kth-largest-integer-in-a-stream/submission-0.py) | Easy |
 | 62 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Solution](./path-to-auto-sync-file/last-stone-weight.py) | Easy |
 | 63 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](./path-to-auto-sync-file/k-closest-points.py) | Medium |
 | 64 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./path-to-auto-sync-file/kth-largest-element-array.py) | Medium |
