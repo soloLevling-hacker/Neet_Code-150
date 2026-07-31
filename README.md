@@ -3,7 +3,7 @@
 My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, automatically synced from NeetCode platform.
 
 ## 📊 Progress
-- Total Solved: **50/150**
+- Total Solved: **54/150**
 
 ---
 
@@ -104,10 +104,10 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
 | 61 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution](./Data%20Structures%20%26%20Algorithms/kth-largest-integer-in-a-stream/submission-0.py) | Easy |
-| 62 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Solution](./path-to-auto-sync-file/last-stone-weight.py) | Easy |
-| 63 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](./path-to-auto-sync-file/k-closest-points.py) | Medium |
-| 64 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./path-to-auto-sync-file/kth-largest-element-array.py) | Medium |
-| 65 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Solution](./path-to-auto-sync-file/task-scheduler.py) | Medium |
+| 62 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Solution](./Data%20Structures%20%26%20Algorithms/last-stone-weight/submission-2.py) | Easy |
+| 63 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](./Data%20Structures%20%26%20Algorithms/k-closest-points-to-origin/submission-0.py) | Medium |
+| 64 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./Data%20Structures%20%26%20Algorithms/kth-largest-element-in-an-array/submission-0.py) | Medium |
+| 65 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Solution](./Data%20Structures%20%26%20Algorithms/task-scheduling/submission-0.py) | Medium |
 | 66 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | [Solution](./path-to-auto-sync-file/design-twitter.py) | Medium |
 | 67 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./path-to-auto-sync-file/find-median-data-stream.py) | Hard |
 
