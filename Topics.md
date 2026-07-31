@@ -63,3 +63,6 @@ Visualized as a tree:
    30   40     <-- Both are > 20
 If you pop() the root (10), the algorithm replaces it with 40, then swaps it down until the structure is valid again, resulting in [15, 20, 40, 30].
 
+Note:
+To find the K smallest items, use a Max-Heap of size K.
+To find the K largest items, use a Min-Heap of size K.
