@@ -3,7 +3,7 @@
 My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, automatically synced from NeetCode platform.
 
 ## 📊 Progress
-- Total Solved: **58/150**
+- Total Solved: **61/150**
 
 ---
 
@@ -130,12 +130,13 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | 71 | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](./Data%20Structures%20%26%20Algorithms/subsets/submission-1.py) | Medium |
 | 72 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](./Data%20Structures%20%26%20Algorithms/combination-target-sum/submission-0.py) | Medium |
 | 73 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Solution](./Data%20Structures%20%26%20Algorithms/combination-target-sum-ii/submission-0.py) | Medium |
-| 74 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](./path-to-auto-sync-file/permutations.py) | Medium |
-| 75 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Solution](./) | Medium |
-| 76 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Solution](./path-to-auto-sync-file/palindrome-partitioning.py) | Medium |
-| 77 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./path-to-auto-sync-file/letter-combinations.py) | Medium |
-| 78 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Solution](./path-to-auto-sync-file/n-queens.py) | Hard |
-| 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./path-to-auto-sync-file/word-search.py) | Medium |
+| 74 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](./Data%20Structures%20%26%20Algorithms/permutations/submission-0.py) | Medium |
+| 75 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Solution](./Data%20Structures%20%26%20Algorithms/subsets-ii/submission-0.py) | Medium |
+| 76 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](./Data%20Structures%20%26%20Algorithms/generate-parentheses/submission-0.py) | Medium |
+| 77 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Solution](./path-to-auto-sync-file/palindrome-partitioning.py) | Medium |
+| 78 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./path-to-auto-sync-file/letter-combinations.py) | Medium |
+| 79 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Solution](./path-to-auto-sync-file/n-queens.py) | Hard |
+| 80 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./path-to-auto-sync-file/word-search.py) | Medium |
 
 ---
 
