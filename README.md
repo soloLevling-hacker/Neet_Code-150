@@ -109,7 +109,7 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | 64 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Solution](./Data%20Structures%20%26%20Algorithms/kth-largest-element-in-an-array/submission-0.py) | Medium |
 | 65 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Solution](./Data%20Structures%20%26%20Algorithms/task-scheduling/submission-0.py) | Medium |
 | 66 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | [Solution](./Data%20Structures%20%26%20Algorithms/design-twitter-feed/submission-0.py) | Medium |
-| 67 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./path-to-auto-sync-file/find-median-data-stream.py) | Hard |
+| 67 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./path-to-auto-sync-file/find-median-data-stream.py) | Hard 
 
 ---
 
@@ -133,137 +133,11 @@ My solutions to the [NeetCode 150](https://neetcode.io/roadmap) problem list, au
 | 74 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](./Data%20Structures%20%26%20Algorithms/permutations/submission-0.py) | Medium |
 | 75 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Solution](./Data%20Structures%20%26%20Algorithms/subsets-ii/submission-0.py) | Medium |
 | 76 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution](./Data%20Structures%20%26%20Algorithms/generate-parentheses/submission-0.py) | Medium |
-| 77 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Solution](./path-to-auto-sync-file/palindrome-partitioning.py) | Medium |
-| 78 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./path-to-auto-sync-file/letter-combinations.py) | Medium |
-| 79 | [N-Queens](https://leetcode.com/problems/n-queens/) | [Solution](./path-to-auto-sync-file/n-queens.py) | Hard |
-| 80 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./path-to-auto-sync-file/word-search.py) | Medium |
+| 77 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./Data%20Structures%20%26%20Algorithms/search-for-word/submission-0.py) | Medium |
+| 78 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Solution](./path-to-auto-sync-file/palindrome-partitioning.py) | Medium |
+| 79 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](./path-to-auto-sync-file/letter-combinations.py) | Medium |
 
 ---
-
-### 12. Graphs
-
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 80 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](./path-to-auto-sync-file/number-of-islands.py) | Medium |
-| 81 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](./path-to-auto-sync-file/clone-graph.py) | Medium |
-| 82 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./path-to-auto-sync-file/pacific-atlantic-water-flow.py) | Medium |
-| 83 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Solution](./path-to-auto-sync-file/surrounded-regions.py) | Medium |
-| 84 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Solution](./path-to-auto-sync-file/rotting-oranges.py) | Medium |
-| 85 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](./path-to-auto-sync-file/course-schedule.py) | Medium |
-| 86 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Solution](./path-to-auto-sync-file/course-schedule-ii.py) | Medium |
-| 87 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [Solution](./path-to-auto-sync-file/min-cost-connect-points.py) | Medium |
-| 88 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Solution](./path-to-auto-sync-file/network-delay-time.py) | Medium |
-| 89 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Solution](./path-to-auto-sync-file/word-ladder.py) | Hard |
-
----
-
-### 13. Intervals
-
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 90 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](./path-to-auto-sync-file/insert-interval.py) | Medium |
-| 91 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](./path-to-auto-sync-file/merge-intervals.py) | Medium |
-| 92 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](./path-to-auto-sync-file/non-overlapping-intervals.py) | Medium |
-| 93 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Solution](./path-to-auto-sync-file/meeting-rooms.py) | Easy |
-| 94 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Solution](./path-to-auto-sync-file/meeting-rooms-ii.py) | Medium |
-
----
-
-### 14. Greedy
-
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 95 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](./path-to-auto-sync-file/maximum-subarray.py) | Medium |
-| 96 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](./path-to-auto-sync-file/jump-game.py) | Medium |
-| 97 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Solution](./path-to-auto-sync-file/jump-game-ii.py) | Medium |
-| 98 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Solution](./path-to-auto-sync-file/gas-station.py) | Medium |
-| 99 | [Candy](https://leetcode.com/problems/candy/) | [Solution](./path-to-auto-sync-file/candy.py) | Hard |
-| 100| [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Solution](./path-to-auto-sync-file/partition-labels.py) | Medium |
-
----
-
-### 15. 1D Dynamic Programming
-
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 101| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](./path-to-auto-sync-file/climbing-stairs.py) | Easy |
-| 102| [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](./path-to-auto-sync-file/house-robber.py) | Medium |
-| 103| [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](./path-to-auto-sync-file/house-robber-ii.py) | Medium |
-| 104| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./path-to-auto-sync-file/longest-palindromic-substring.py) | Medium |
-| 105| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./path-to-auto-sync-file/palindromic-substrings.py) | Medium |
-| 106| [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](./path-to-auto-sync-file/decode-ways.py) | Medium |
-| 107| [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution](./path-to-auto-sync-file/coin-change.py) | Medium |
-| 108| [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [Solution](./path-to-auto-sync-file/coin-change-ii.py) | Medium |
-| 109| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Solution](./path-to-auto-sync-file/maximum-product-subarray.py) | Medium |
-| 110| [Word Break](https://leetcode.com/problems/word-break/) | [Solution](./path-to-auto-sync-file/word-break.py) | Medium |
-| 111| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](./path-to-auto-sync-file/longest-increasing-subsequence.py) | Medium |
-| 112| [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./path-to-auto-sync-file/partition-equal-subset-sum.py) | Medium |
-
----
-
-### 16. 2D Dynamic Programming
-
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 113| [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](./path-to-auto-sync-file/unique-paths.py) | Medium |
-| 114| [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Solution](./path-to-auto-sync-file/unique-paths-ii.py) | Medium |
-| 115| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](./path-to-auto-sync-file/longest-common-subsequence.py) | Medium |
-| 116| [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](./path-to-auto-sync-file/edit-distance.py) | Medium |
-| 117| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Solution](./path-to-auto-sync-file/distinct-subsequences.py) | Hard |
-| 118| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Solution](./path-to-auto-sync-file/regular-expression-matching.py) | Hard |
-| 119| [Interleaving String](https://leetcode.com/problems/interleaving-string/) | [Solution](./path-to-auto-sync-file/interleaving-string.py) | Medium |
-| 120| [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Solution](./path-to-auto-sync-file/maximal-square.py) | Medium |
-
----
-
-### 17. Bit Manipulation
-
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 121| [Single Number](https://leetcode.com/problems/single-number/) | [Solution](./path-to-auto-sync-file/single-number.py) | Easy |
-| 122| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./path-to-auto-sync-file/number-of-1-bits.py) | Easy |
-| 123| [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](./path-to-auto-sync-file/counting-bits.py) | Easy |
-| 124| [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](./path-to-auto-sync-file/reverse-bits.py) | Easy |
-| 125| [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](./path-to-auto-sync-file/missing-number.py) | Easy |
-| 126| [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./path-to-auto-sync-file/sum-of-two-integers.py) | Medium |
-| 127| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](./path-to-auto-sync-file/reverse-integer.py) | Medium |
-
----
-
-### 18. Math & Geometry
-
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 128| [Plus One](https://leetcode.com/problems/plus-one/) | [Solution](./path-to-auto-sync-file/plus-one.py) | Easy |
-| 129| [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](./path-to-auto-sync-file/powx-n.py) | Medium |
-| 130| [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Solution](./path-to-auto-sync-file/sqrtx.py) | Easy |
-| 131| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Solution](./path-to-auto-sync-file/multiply-strings.py) | Medium |
-| 132| [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./path-to-auto-sync-file/rotate-image.py) | Medium |
-| 133| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./path-to-auto-sync-file/spiral-matrix.py) | Medium |
-| 134| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./path-to-auto-sync-file/set-matrix-zeroes.py) | Medium |
-| 135| [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](./path-to-auto-sync-file/happy-number.py) | Easy |
-
----
-
-### 19. Additional Graph / Advanced Problems (NeetCode 150 includes these)
-
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 136| [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Solution](./path-to-auto-sync-file/redundant-connection.py) | Medium |
-| 137| [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [Solution](./path-to-auto-sync-file/number-connected-components.py) | Medium |
-| 138| [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [Solution](./path-to-auto-sync-file/graph-valid-tree.py) | Medium |
-| 139| [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](./path-to-auto-sync-file/valid-parenthesis-string.py) | Medium |
-| 140| [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Solution](./path-to-auto-sync-file/combination-sum-iv.py) | Medium |
-| 141| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution](./path-to-auto-sync-file/binary-tree-level-order-traversal-ii.py) | Medium |
-| 142| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](./path-to-auto-sync-file/invert-binary-tree.py) | Easy |
-| 143| [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](./path-to-auto-sync-file/same-tree.py) | Easy |
-| 144| [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./path-to-auto-sync-file/subtree-of-another-tree.py) | Easy |
-| 145| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./path-to-auto-sync-file/maximum-depth-of-binary-tree.py) | Easy |
-| 146| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution](./path-to-auto-sync-file/balanced-binary-tree.py) | Easy |
-| 147| [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](./path-to-auto-sync-file/diameter-of-binary-tree.py) | Easy |
-| 148| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](./path-to-auto-sync-file/binary-tree-right-side-view.py) | Medium |
-| 149| [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Solution](./path-to-auto-sync-file/count-good-nodes.py) | Medium |
-| 150| [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](./path-to-auto-sync-file/lowest-common-ancestor-bst.py) | Medium |
 
 ## 📝 Notes
 - Solutions are auto-synced from NeetCode platform
